@@ -1,0 +1,19 @@
+{
+  "id": "trevalor-data",
+  "title": "Trevalor-Data",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "scripts/module.js"
+  ],
+  "description": "Adds custom class types and configurations to DND 5e for the world of Trevalor",
+  "authors": [
+    {
+      "name": "Brandin Canterbury",
+      "flags": {}
+    }
+  ]
+}
